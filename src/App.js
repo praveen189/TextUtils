@@ -19,7 +19,7 @@ function App() {
   return (
     <>
     {/* <Navbar title="TextUtils" mode={mode} toggleMode={toggleMode} /> */}
-    <Navbar title="TextUtils" />
+    <Navbar title="Textutils" />
     <div className="container my-3"> 
       <TextForm heading = "Enter the text to analyze"/>
       {/* <About/> */}
